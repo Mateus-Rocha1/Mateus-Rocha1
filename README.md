@@ -6,7 +6,7 @@
 
 ## 👤About me
 
-👩🏻‍💻My name is Mateus, I'm 19 and I'm from Fortaleza CE, Brazil
+👩🏻‍💻My name is Mateus, I'm 19 and I'm from Fortaleza-CE, Brazil
 
 🎓Computer Science undergraduate at the Federal Institute of Education, Science, and Technology of Ceará (IFCE) -- 4th semester 
 
@@ -54,7 +54,7 @@
 
 
 ---
-
+<!--
 ## 🌐 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
@@ -62,7 +62,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https:/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](http)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-
+-->
 ---
 
 ## 📊Github Stats
