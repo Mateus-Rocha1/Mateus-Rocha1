@@ -54,7 +54,7 @@
 
 
 ---
-<!--
+
 ## 🌐 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
@@ -62,7 +62,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https:/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](http)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
--->
+
 ---
 
 ## 📊Github Stats
