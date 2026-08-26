@@ -67,6 +67,6 @@
 
 ## 📊Github Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats-henna-ten-90.vercel.app/api?username=Mateus-Rocha1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=prs_merged_percentage&hide=stars&card_width=350" />
+  <img height="170" src="https://github-readme-stats-henna-ten-90.vercel.app/api?username=Mateus-Rocha1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars&card_width=350" />
   <img height="170" src="https://github-readme-stats-henna-ten-90.vercel.app/api/top-langs/?username=Mateus-Rocha1&layout=compact&theme=tokyonight&card_width=350&line_height=25" />
 </div>
