@@ -16,15 +16,15 @@
 
 ## 💼 Experience
 
-### Laboratory of Computer Vision and Artificial Intelligence (Vicia) - IFCE
+### Laboratório de Visão Computacional e Inteligência Artificial (VICIA) - IFCE
 - Full-Stack Developer | March 2026 – Present
 - Contributing to the development of a language-learning SaaS using Java, Spring Boot, Angular, Docker and AWS
 
-### Software Development Center (NDS) - IFCE
+### Núcleo de Desenvolvimento de Software (NDS) - IFCE
 - Full-Stack Developer | August 2026 – Present
 - Contributing to the development of a new version of the campus internal system using .NET and Angular
 
-### Laboratory of Telematics, Accessibility, and Educational Projects (Ltap) - IFCE
+### Laboratório de Telemática, Acessibilidade e Projetos Educacionais (LTAP) - IFCE
 - Backend Developer | August 2026 – Present
 - Developing a property management SaaS using Java and Spring Boot with a microservices architecture, Docker and CI/CD pipelines with GitHub Actions
 
@@ -65,7 +65,7 @@
 
 ## 🌐 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pinheiro-5937a437b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pinheiro-da-rocha-5937a437b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusprocha14@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://mateus-rocha1.github.io/Portifolio/)
 [![🇺🇸 Resume EN](https://img.shields.io/badge/🇺🇸_Resume_EN-4285F4?style=for-the-badge)](./curriculoen.pdf)
