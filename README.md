@@ -14,16 +14,20 @@
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Laboratório de Visão Computacional e Inteligência Artificial (Vicia) - IFCE 
-Desenvolvedor Full-Stack | março 2026 – atual
+### Laboratory of Computer Vision and Artificial Intelligence (Vicia) - IFCE
+- Full-Stack Developer | March 2026 – Present
+- Contributing to the development of a language-learning SaaS using Java, Spring Boot, Angular, Docker and AWS
 
-### Núcleo de desenvolvimento de software (NDS) - IFCE Desenvolvedor 
-Full-Stack | agosto 2026 – atual
+### Software Development Center (NDS) - IFCE
+- Full-Stack Developer | August 2026 – Present
+- Contributing to the development of a new version of the campus internal system using .NET and Angular
 
-### Laboratório de Telemática, Acessibilidade e Projetos Educacionais (Ltap) - IFCE 
-Desenvolvedor Backend | agosto 2026 – atual
+### Laboratory of Telematics, Accessibility, and Educational Projects (Ltap) - IFCE
+- Backend Developer | August 2026 – Present
+- Developing a property management SaaS using Java and Spring Boot with a microservices architecture, Docker and CI/CD pipelines with GitHub Actions
+
 ---
 
 ## 🛠My technology stack
@@ -64,8 +68,8 @@ Desenvolvedor Backend | agosto 2026 – atual
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pinheiro-5937a437b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusprocha14@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https:/)
-[![Resume EN](https://img.shields.io/badge/Resume_EN-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./curriculoen.pdf)
-[![Resume PT-BR](https://img.shields.io/badge/Resume_PT--BR-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./Curriculoptbr.pdf)
+[![🇺🇸 Resume EN](https://img.shields.io/badge/🇺🇸_Resume_EN-4285F4?style=for-the-badge)](./curriculoen.pdf)
+[![🇧🇷 Resume PT-BR](https://img.shields.io/badge/🇧🇷_Resume_PT--BR-4285F4?style=for-the-badge)](./Curriculoptbr.pdf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusspinheiiro/)
 
 ---
