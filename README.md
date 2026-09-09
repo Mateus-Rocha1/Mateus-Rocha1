@@ -16,13 +16,13 @@
 
 ## Experience
 
-# Laboratório de Visão Computacional e Inteligência Artificial (Vicia) - IFCE 
+### Laboratório de Visão Computacional e Inteligência Artificial (Vicia) - IFCE 
 Desenvolvedor Full-Stack | março 2026 – atual
 
-# Núcleo de desenvolvimento de software (NDS) - IFCE Desenvolvedor 
+### Núcleo de desenvolvimento de software (NDS) - IFCE Desenvolvedor 
 Full-Stack | agosto 2026 – atual
 
-# Laboratório de Telemática, Acessibilidade e Projetos Educacionais (Ltap) - IFCE 
+### Laboratório de Telemática, Acessibilidade e Projetos Educacionais (Ltap) - IFCE 
 Desenvolvedor Backend | agosto 2026 – atual
 ---
 
