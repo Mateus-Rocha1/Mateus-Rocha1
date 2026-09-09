@@ -14,11 +14,17 @@
 
 ---
 
-<!-- 
+## Experience
 
-# Experience
+# Laboratório de Visão Computacional e Inteligência Artificial (Vicia) - IFCE 
+Desenvolvedor Full-Stack | março 2026 – atual
+
+# Núcleo de desenvolvimento de software (NDS) - IFCE Desenvolvedor 
+Full-Stack | agosto 2026 – atual
+
+# Laboratório de Telemática, Acessibilidade e Projetos Educacionais (Ltap) - IFCE 
+Desenvolvedor Backend | agosto 2026 – atual
 ---
--->
 
 ## 🛠My technology stack
 
@@ -36,11 +42,9 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### ⚙️ DevOps & Tools
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
