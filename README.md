@@ -64,7 +64,8 @@ Desenvolvedor Backend | agosto 2026 – atual
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pinheiro-5937a437b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusprocha14@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https:/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./curriculoen.pdf)
+[![Resume EN](https://img.shields.io/badge/Resume_EN-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./curriculoen.pdf)
+[![Resume PT-BR](https://img.shields.io/badge/Resume_PT--BR-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./Curriculoptbr.pdf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusspinheiiro/)
 
 ---
