@@ -17,7 +17,7 @@
 ## 💼 Experience
 
 ### Laboratório de Visão Computacional e Inteligência Artificial (VICIA) - IFCE
-- Full-Stack Developer | March 2026 – Present
+- Full-Stack Developer | March 2026 – September 2026
 - Contributing to the development of a language-learning SaaS using Java, Spring Boot, Angular, Docker and AWS
 
 ### Núcleo de Desenvolvimento de Software (NDS) - IFCE
